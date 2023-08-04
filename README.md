@@ -1,0 +1,1 @@
+# nextjs-cryptocurrency-trends
