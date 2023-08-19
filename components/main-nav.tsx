@@ -14,9 +14,9 @@ export function MainNav({
 
   const routes = [
     {
-      href: ``,
-      label: 'Overview',
-      active: pathname === ``,
+      href: `/dashboard`,
+      label: 'Dashboard',
+      active: pathname === `/dashboard`,
     },
     {
       href: `/trending`,
